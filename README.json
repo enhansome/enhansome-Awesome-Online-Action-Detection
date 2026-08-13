@@ -1,0 +1,257 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[HAT] HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization",
+          "description": "Sakib Reza et al, . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-23T06:35:53Z",
+            "owner": "sakibreza",
+            "repo": "ECCV24-HAT",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[OV-OAD] Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?",
+          "description": "Qingsong Zhao et al, . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T03:40:36Z",
+            "owner": "ZQSIAT",
+            "repo": "OV-OAD",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[MAT] Memory-and-Anticipation Transformer for Online Action Understanding",
+          "description": "Jiahao Wang et al, . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-07T03:16:19Z",
+            "owner": "Echo0125",
+            "repo": "MAT-Memory-and-Anticipation-Transformer",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[MiniROAD] MiniROAD: Minimal RNN Framework for Online Action Detection",
+          "description": "Joungbin An et al, . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-07T06:47:05Z",
+            "owner": "jbistanbul",
+            "repo": "MiniROAD",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[E2E-LOAD] E2E-LOAD: End-to-End Long-form Online Action Detection",
+          "description": "Shuqiang Cao et al, . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-26T08:43:15Z",
+            "owner": "sqiangcao99",
+            "repo": "E2E-LOAD",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Colar] Colar: Effective and Efficient Online Action Detection by Consulting Exemplars",
+          "description": "Le Yang et al, .[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-31T08:40:03Z",
+            "owner": "VividLe",
+            "repo": "Online-Action-Detection",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[TeSTra] Real-time Online Video Detection with Temporal Smoothing Transformers",
+          "description": "Yue Zhao et al, .[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-23T08:49:23Z",
+            "owner": "zhaoyue-zephyrus",
+            "repo": "TeSTra",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Continual Transformers] Continual Transformers: Redundancy-Free Attention for Online Inference",
+          "description": "Lukas Hedegaard et al, .[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-16T06:33:30Z",
+            "owner": "LukasHedegaard",
+            "repo": "continual-transformers",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[SCOAD] SCOAD: Single-frame Click Supervision for Online Action Detection",
+          "description": "Na Ye et al, .[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-29T10:13:27Z",
+            "owner": "zstarN70",
+            "repo": "SCOAD",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[LSTR] Long Short-Term Transformer for Online Action Detection",
+          "description": "Mingze Xu et al, .[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:47:38Z",
+            "owner": "amazon-science",
+            "repo": "long-short-term-transformer",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[OadTR] OadTR: Online Action Detection with Transformers",
+          "description": "Xiang Wang et al, .[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-16T07:53:04Z",
+            "owner": "wangxiang1230",
+            "repo": "OadTR",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[WOAD] WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos",
+          "description": "Mingfei Gao et al, .[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-01T17:31:18Z",
+            "owner": "salesforce",
+            "repo": "woad-pytorch",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[FATSnet] Temporally Smooth Online Action Detection using Cycle-consistent Future Anticipation",
+          "description": "Young Hwi Kim et al, . [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-02T06:42:37Z",
+            "owner": "YHKimGithub",
+            "repo": "FATSnet",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[IDN] Learning to Discriminate Information for Online Action Detection",
+          "description": "Hyunjun Eun et al, .[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T23:10:49Z",
+            "owner": "hyunjun-eun",
+            "repo": "idu",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[evaluation protocol] Rethinking Online Action Detection in Untrimmed Videos: A Novel Online Evaluation Protocol",
+          "description": "Marcos Baptista Rios et al, .[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-27T00:50:52Z",
+            "owner": "gramuah",
+            "repo": "ia",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Comments are welcome for additional notes！"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:11:03.477Z",
+    "original_repository": "wangxiang1230/Awesome-Online-Action-Detection",
+    "original_repository_sha": "4f2b5dc01df9e2ba35b85f6dcd36152df8c0ec74",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Online-Action-Detection",
+    "enhanced_repository_description": null,
+    "title": "Awesome Online Action Detection: with stars"
+  }
+}
