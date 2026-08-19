@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 825445908,
             "language": "Python",
             "last_commit": "2024-08-23T06:35:53Z",
             "owner": "sakibreza",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 879536005,
             "language": "Python",
             "last_commit": "2026-07-13T03:40:36Z",
             "owner": "ZQSIAT",
@@ -35,7 +37,7 @@
       "title": "2024"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672561737,
             "language": "Python",
             "last_commit": "2023-10-07T03:16:19Z",
             "owner": "Echo0125",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685485735,
             "language": "Python",
             "last_commit": "2024-05-07T06:47:05Z",
             "owner": "jbistanbul",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 568714637,
             "language": "Python",
             "last_commit": "2023-07-26T08:43:15Z",
             "owner": "sqiangcao99",
@@ -83,7 +88,7 @@
       "title": "2023"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 465266628,
             "language": "Python",
             "last_commit": "2022-03-31T08:40:03Z",
             "owner": "VividLe",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515791311,
             "language": "Python",
             "last_commit": "2025-08-23T08:49:23Z",
             "owner": "zhaoyue-zephyrus",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 412448837,
             "language": "Jupyter Notebook",
             "last_commit": "2023-10-16T06:33:30Z",
             "owner": "LukasHedegaard",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 543892907,
             "language": "Python",
             "last_commit": "2024-02-29T10:13:27Z",
             "owner": "zstarN70",
@@ -145,7 +154,7 @@
       "title": "2022"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429509295,
             "language": "Python",
             "last_commit": "2024-07-25T10:47:38Z",
             "owner": "amazon-science",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378948705,
             "language": "Python",
             "last_commit": "2023-07-16T07:53:04Z",
             "owner": "wangxiang1230",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 376928523,
             "language": "Python",
             "last_commit": "2025-05-01T17:31:18Z",
             "owner": "salesforce",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 431583630,
             "language": "Python",
             "last_commit": "2023-02-02T06:42:37Z",
             "owner": "YHKimGithub",
@@ -207,7 +220,7 @@
       "title": "2021"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -216,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255545662,
             "language": "Python",
             "last_commit": "2023-03-24T23:10:49Z",
             "owner": "hyunjun-eun",
@@ -230,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232538275,
             "language": "Python",
             "last_commit": "2020-03-27T00:50:52Z",
             "owner": "gramuah",
@@ -239,16 +254,12 @@
         }
       ],
       "title": "2020"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Comments are welcome for additional notes！"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:46:05.128Z",
+    "last_updated": "2026-08-19T12:11:27.520Z",
     "original_repository": "wangxiang1230/Awesome-Online-Action-Detection",
+    "original_repository_id": 498362030,
     "original_repository_sha": "4f2b5dc01df9e2ba35b85f6dcd36152df8c0ec74",
     "enhanced_repository": "enhansome/enhansome-Awesome-Online-Action-Detection",
     "enhanced_repository_description": null,
