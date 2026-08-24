@@ -65,8 +65,8 @@
 
 ### <span id = "oad-2018"> 2018 </span>
 
-* <span id = "1801"></span> [**Modeling temporal structure with LSTM for online action detection**](https://ieeexplore.ieee.org/document/8354277) - Roeland De Geest et al, `WACV 2018`.
 * <span id = "1802"></span> [**Online Detection of Action Start in Untrimmed, Streaming Video**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Shou_Online_Detection_of_ECCV_2018_paper.pdf) - Zheng Shou et al, `ECCV 2018`.[\[code\]](https://github.com/junting/odas) ⭐ 12 | 🐛 1 | 📅 2018-09-01
+* <span id = "1801"></span> [**Modeling temporal structure with LSTM for online action detection**](https://ieeexplore.ieee.org/document/8354277) - Roeland De Geest et al, `WACV 2018`.
 * <span id = "1803">\[HDD Dataset]</span> [**Toward Driving Scene Understanding: A Dataset for Learning Driver Behavior and Causal Reasoning**](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ramanishka_Toward_Driving_Scene_CVPR_2018_paper.pdf) - Vasili Ramanishka et al, `CVPR 2018`.
 
 ### <span id = "oad-2017"> 2017 </span>
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
