@@ -15,7 +15,7 @@
             "last_commit": "2024-08-23T06:35:53Z",
             "owner": "sakibreza",
             "repo": "ECCV24-HAT",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -299,9 +299,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:51:29.591Z",
-    "original_repository": "wangxiang1230/Awesome-Online-Action-Detection",
-    "original_repository_id": 498362030,
+    "last_updated": "2026-08-27T11:26:58.558Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 498362030,
+      "language": null,
+      "last_commit": "2025-01-25T15:36:36Z",
+      "owner": "wangxiang1230",
+      "repo": "Awesome-Online-Action-Detection",
+      "stars": 73
+    },
     "original_repository_sha": "4f2b5dc01df9e2ba35b85f6dcd36152df8c0ec74",
     "enhanced_repository": "enhansome/enhansome-Awesome-Online-Action-Detection",
     "enhanced_repository_description": null,
