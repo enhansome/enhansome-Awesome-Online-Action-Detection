@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of ECCV 2024 paper - \"HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization\"",
+            "homepage": null,
             "id": 825445908,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-23T06:35:53Z",
+            "open_issues": 0,
             "owner": "sakibreza",
             "repo": "ECCV24-HAT",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "action-localization",
+              "computer-vision",
+              "eccv2024",
+              "egocentric-vision",
+              "transformers",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -26,12 +38,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo takes the initial step towards leveraging text learning for online action detection without explicit human supervision.",
+            "homepage": null,
             "id": 879536005,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-13T03:40:36Z",
+            "open_issues": 2,
             "owner": "ZQSIAT",
             "repo": "OV-OAD",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         }
@@ -48,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2023] Official implementation of Memory-and-Anticipation Transformer for Online Action Understanding",
+            "homepage": null,
             "id": 672561737,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-07T03:16:19Z",
+            "open_issues": 4,
             "owner": "Echo0125",
             "repo": "MAT-Memory-and-Anticipation-Transformer",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -64,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 685485735,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-07T06:47:05Z",
+            "open_issues": 2,
             "owner": "jbistanbul",
             "repo": "MiniROAD",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -80,12 +107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 568714637,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-26T08:43:15Z",
+            "open_issues": 1,
             "owner": "sqiangcao99",
             "repo": "E2E-LOAD",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         }
@@ -102,12 +134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Colar: Effective and Efficient Online Action Detection by Consulting Exemplars, CVPR 2022.",
+            "homepage": null,
             "id": 465266628,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-31T08:40:03Z",
+            "open_issues": 4,
             "owner": "VividLe",
             "repo": "Online-Action-Detection",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -118,12 +155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ECCV2022 \"Real-time Online Video Detection with Temporal Smoothing Transformers\"",
+            "homepage": "https://arxiv.org/abs/2209.09236",
             "id": 515791311,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-23T08:49:23Z",
+            "open_issues": 9,
             "owner": "zhaoyue-zephyrus",
             "repo": "TeSTra",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -134,12 +176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch Implementation for \"Continual Transformers: Redundancy-Free Attention for Online Inference\" [ICLR 2023]",
+            "homepage": null,
             "id": 412448837,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-16T06:33:30Z",
+            "open_issues": 0,
             "owner": "LukasHedegaard",
             "repo": "continual-transformers",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -150,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCOAD: Single-frame Click Supervision for Online Action Detection, ACCV 2022",
+            "homepage": null,
             "id": 543892907,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-29T10:13:27Z",
+            "open_issues": 0,
             "owner": "zstarN70",
             "repo": "SCOAD",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         }
@@ -172,12 +224,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2021 Spotlight] Official implementation of Long Short-Term Transformer for Online Action Detection",
+            "homepage": null,
             "id": 429509295,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-25T10:47:38Z",
+            "open_issues": 13,
             "owner": "amazon-science",
             "repo": "long-short-term-transformer",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "online-action-detection",
+              "video-analysis",
+              "video-transformer"
+            ]
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -188,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our ICCV 2021 Paper \"OadTR: Online Action Detection with Transformers\".",
+            "homepage": null,
             "id": 378948705,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-16T07:53:04Z",
+            "open_issues": 27,
             "owner": "wangxiang1230",
             "repo": "OadTR",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -204,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is the pytorch implementation of WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos (CVPR2021).",
+            "homepage": null,
             "id": 376928523,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-05-01T17:31:18Z",
+            "open_issues": 2,
             "owner": "salesforce",
             "repo": "woad-pytorch",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -220,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporally smooth online action detection using cycle-consistent future anticipation",
+            "homepage": null,
             "id": 431583630,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-02T06:42:37Z",
+            "open_issues": 0,
             "owner": "YHKimGithub",
             "repo": "FATSnet",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         }
@@ -242,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning to Discriminate Information for Online Action Detection, CVPR 2020",
+            "homepage": null,
             "id": 255545662,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-24T23:10:49Z",
+            "open_issues": 7,
             "owner": "hyunjun-eun",
             "repo": "idu",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         },
@@ -258,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rethinking Online Action Detection in Untrimmed Videos: A Novel Online Evaluation Protocol",
+            "homepage": null,
             "id": 232538275,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-03-27T00:50:52Z",
+            "open_issues": 0,
             "owner": "gramuah",
             "repo": "ia",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         }
@@ -280,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2019] Official implementation of Temporal Recurrent Networks for Online Action Detection",
+            "homepage": null,
             "id": 222581463,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-21T01:04:15Z",
+            "open_issues": 8,
             "owner": "xumingze0308",
             "repo": "TRN.pytorch",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         }
@@ -302,12 +393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online Detection of Action Start in Untrimmed, Streaming Videos",
+            "homepage": null,
             "id": 147011261,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-09-01T15:47:05Z",
+            "open_issues": 1,
             "owner": "junting",
             "repo": "odas",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
         }
@@ -316,15 +412,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:51:41.192Z",
+    "last_updated": "2026-08-29T05:00:46.415Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Online Action Detection",
+      "homepage": null,
       "id": 498362030,
       "language": null,
+      "license": null,
       "last_commit": "2025-01-25T15:36:36Z",
+      "open_issues": 1,
       "owner": "wangxiang1230",
       "repo": "Awesome-Online-Action-Detection",
-      "stars": 73
+      "stars": 73,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "online-action-detection"
+      ]
     },
     "original_repository_sha": "4f2b5dc01df9e2ba35b85f6dcd36152df8c0ec74",
     "enhanced_repository": "enhansome/enhansome-Awesome-Online-Action-Detection",
