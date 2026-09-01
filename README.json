@@ -44,7 +44,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-07-13T03:40:36Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "ZQSIAT",
             "repo": "OV-OAD",
             "stars": 16,
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:57:02.376Z",
+    "last_updated": "2026-09-01T22:41:52.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Online Action Detection",
