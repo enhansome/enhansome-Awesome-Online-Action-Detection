@@ -11,7 +11,7 @@
 ### <span id = "oad-2024"> 2024 </span>
 
 * <span id = "2405">\[HAT]</span> [**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**](https://arxiv.org/pdf/2408.06437) - Sakib Reza et al, `ECCV 2024`. [\[code\]](https://github.com/sakibreza/ECCV24-HAT) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-08-23
-* <span id = "2407">\[OV-OAD]</span> [**Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?**](https://openreview.net/pdf?id=PWzB2V2b6R) - Qingsong Zhao et al, `NeurIPS 2024`. [\[code\]](https://github.com/ZQSIAT/OV-OAD) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-07-13
+* <span id = "2407">\[OV-OAD]</span> [**Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?**](https://openreview.net/pdf?id=PWzB2V2b6R) - Qingsong Zhao et al, `NeurIPS 2024`. [\[code\]](https://github.com/ZQSIAT/OV-OAD) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2026-07-13
 * <span id = "2406">\[OnlineTAS]</span> [**OnlineTAS: An Online Baseline for Temporal Action Segmentation**](https://arxiv.org/pdf/2411.01122) - Qing Zhong et al, `NeurIPS 2024`.
 * <span id = "2404">\[ActionSwitch]</span> [**ActionSwitch: Class-agnostic Detection of Simultaneous Actions in Streaming Videos**](https://arxiv.org/pdf/2407.12987) - Hyolim Kang et al, `ECCV 2024`.
 * <span id = "2403">\[OA-M]</span> [**Object Aware Egocentric Online Action Detection**](https://arxiv.org/pdf/2406.01079) - Joungbin An et al, `ArXiv 2024`.
@@ -29,7 +29,7 @@
 
 ### <span id = "oad-2022"> 2022 </span>
 
-* <span id = "2203">\[Colar]</span> [**Colar: Effective and Efficient Online Action Detection by Consulting Exemplars**](https://arxiv.org/abs/2203.01057v2) - Le Yang et al, `CVPR 2022`.[\[code\]](https://github.com/VividLe/Online-Action-Detection) ⭐ 217 | 🐛 4 | 🌐 Python | 📅 2022-03-31
+* <span id = "2203">\[Colar]</span> [**Colar: Effective and Efficient Online Action Detection by Consulting Exemplars**](https://arxiv.org/abs/2203.01057v2) - Le Yang et al, `CVPR 2022`.[\[code\]](https://github.com/VividLe/Online-Action-Detection) ⭐ 218 | 🐛 4 | 🌐 Python | 📅 2022-03-31
 * <span id = "2206">\[TeSTra]</span> [**Real-time Online Video Detection with Temporal Smoothing Transformers**](https://arxiv.org/abs/2209.09236) - Yue Zhao et al, `ECCV 2022`.[\[code\]](https://github.com/zhaoyue-zephyrus/TeSTra) ⭐ 119 | 🐛 9 | 🌐 Python | 📅 2025-08-23
 * <span id = "2201">\[Continual Transformers]</span> [**Continual Transformers: Redundancy-Free Attention for Online Inference**](https://arxiv.org/abs/2201.06268) - Lukas Hedegaard et al, `ArXiv 2022`.[\[code\]](https://github.com/lukashedegaard/continual-transformers) ⭐ 28 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-16
 * <span id = "2209">\[SCOAD]</span> [**SCOAD: Single-frame Click Supervision for Online Action Detection**](https://openaccess.thecvf.com/content/ACCV2022/papers/Ye_SCOAD_Single-frame_Click_Supervision_for_Online_Action_Detection_ACCV_2022_paper.pdf) - Na Ye et al, `ACCV 2022`.[\[code\]](https://github.com/zstarN70/SCOAD) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-02-29
@@ -60,7 +60,7 @@
 
 ### <span id = "oad-2019"> 2019 </span>
 
-* <span id = "1901">\[TRN]</span> [**Temporal Recurrent Networks for Online Action Detection**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Temporal_Recurrent_Networks_for_Online_Action_Detection_ICCV_2019_paper.pdf) - Mingze Xu et al, `ICCV 2019`.[\[code\]](https://github.com/xumingze0308/TRN.pytorch) ⭐ 85 | 🐛 8 | 🌐 Python | 📅 2022-07-21
+* <span id = "1901">\[TRN]</span> [**Temporal Recurrent Networks for Online Action Detection**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Temporal_Recurrent_Networks_for_Online_Action_Detection_ICCV_2019_paper.pdf) - Mingze Xu et al, `ICCV 2019`.[\[code\]](https://github.com/xumingze0308/TRN.pytorch) ⭐ 86 | 🐛 8 | 🌐 Python | 📅 2022-07-21
 * <span id = "1902">\[StartNet]</span> [**StartNet: Online Detection of Action Start in Untrimmed Videos**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_StartNet_Online_Detection_of_Action_Start_in_Untrimmed_Videos_ICCV_2019_paper.pdf) - Mingfei Gao et al, `ICCV 2019`.
 
 ### <span id = "oad-2018"> 2018 </span>
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

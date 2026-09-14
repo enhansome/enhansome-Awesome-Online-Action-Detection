@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "ZQSIAT",
             "repo": "OV-OAD",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
@@ -143,7 +143,7 @@
             "open_issues": 4,
             "owner": "VividLe",
             "repo": "Online-Action-Detection",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
@@ -375,7 +375,7 @@
             "open_issues": 8,
             "owner": "xumingze0308",
             "repo": "TRN.pytorch",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:30:09.349Z",
+    "last_updated": "2026-09-14T23:14:22.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Online Action Detection",
