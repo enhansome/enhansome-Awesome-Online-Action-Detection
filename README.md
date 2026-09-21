@@ -21,7 +21,7 @@
 ### <span id = "oad-2023"> 2023 </span>
 
 * <span id = "2304">\[MAT]</span> [**Memory-and-Anticipation Transformer for Online Action Understanding**](https://arxiv.org/abs/2308.07893) - Jiahao Wang et al, `ICCV 2023`. [\[code\]](https://github.com/Echo0125/Memory-and-Anticipation-Transformer) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2023-10-07
-* <span id = "2306">\[MiniROAD]</span> [**MiniROAD: Minimal RNN Framework for Online Action Detection**](https://openaccess.thecvf.com/content/ICCV2023/papers/An_MiniROAD_Minimal_RNN_Framework_for_Online_Action_Detection_ICCV_2023_paper.pdf) - Joungbin An et al, `ICCV 2023`. [\[code\]](https://github.com/jbistanbul/MiniROAD) ⭐ 42 | 🐛 2 | 🌐 Python | 📅 2024-05-07
+* <span id = "2306">\[MiniROAD]</span> [**MiniROAD: Minimal RNN Framework for Online Action Detection**](https://openaccess.thecvf.com/content/ICCV2023/papers/An_MiniROAD_Minimal_RNN_Framework_for_Online_Action_Detection_ICCV_2023_paper.pdf) - Joungbin An et al, `ICCV 2023`. [\[code\]](https://github.com/jbistanbul/MiniROAD) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2024-05-07
 * <span id = "2305">\[E2E-LOAD]</span> [**E2E-LOAD: End-to-End Long-form Online Action Detection**](https://arxiv.org/abs/2306.07703) - Shuqiang Cao et al, `ICCV 2023`. [\[code\]](https://github.com/sqiangcao99/E2E-LOAD) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2023-07-26
 * <span id = "2303">\[Contrastive-based]</span> [**Online Action Detection with Learning Future Representations by Contrastive Learning**](https://ieeexplore.ieee.org/abstract/document/10220027) - Haitao Leng et al, `ICME 2023`.
 * <span id = "2302">\[HCM]</span> [**HCM: Online Action Detection With Hard Video Clip Mining**](https://ieeexplore.ieee.org/abstract/document/10246422) - Siyu Liu et al, `TMM 2023`.
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
