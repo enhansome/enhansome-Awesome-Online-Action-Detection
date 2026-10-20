@@ -258,7 +258,7 @@
             "open_issues": 27,
             "owner": "wangxiang1230",
             "repo": "OadTR",
-            "stars": 97,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:49:46.540Z",
+    "last_updated": "2026-10-20T23:15:18.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Online Action Detection",

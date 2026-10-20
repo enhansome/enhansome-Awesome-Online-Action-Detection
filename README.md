@@ -42,7 +42,7 @@
 ### <span id = "oad-2021"> 2021 </span>
 
 * <span id = "2102">\[LSTR]</span> [**Long Short-Term Transformer for Online Action Detection**](https://proceedings.neurips.cc/paper/2021/file/08b255a5d42b89b0585260b6f2360bdd-Paper.pdf) - Mingze Xu et al, `NeurIPS 2021`.[\[code\]](https://github.com/amazon-research/long-short-term-transformer) ⭐ 140 | 🐛 13 | 🌐 Python | 📅 2024-07-25
-* <span id = "2101">\[OadTR]</span> [**OadTR: Online Action Detection with Transformers**](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_OadTR_Online_Action_Detection_With_Transformers_ICCV_2021_paper.pdf) - Xiang Wang et al, `ICCV 2021`.[\[code\]](https://github.com/wangxiang1230/OadTR) ⭐ 97 | 🐛 27 | 🌐 Python | 📅 2023-07-16
+* <span id = "2101">\[OadTR]</span> [**OadTR: Online Action Detection with Transformers**](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_OadTR_Online_Action_Detection_With_Transformers_ICCV_2021_paper.pdf) - Xiang Wang et al, `ICCV 2021`.[\[code\]](https://github.com/wangxiang1230/OadTR) ⭐ 98 | 🐛 27 | 🌐 Python | 📅 2023-07-16
 * <span id = "2104">\[WOAD]</span> [**WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos**](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_WOAD_Weakly_Supervised_Online_Action_Detection_in_Untrimmed_Videos_CVPR_2021_paper.html) - Mingfei Gao et al, `CVPR 2021`.[\[code\]](https://github.com/salesforce/woad-pytorch) ⚠️ Archived
 * <span id = "2109">\[FATSnet]</span> [**Temporally Smooth Online Action Detection using Cycle-consistent Future Anticipation**](https://arxiv.org/abs/2104.08030) - Young Hwi Kim et al, `PR 2021`. [\[code\]](https://github.com/YHKimGithub/FATSnet) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-02-02
 * <span id = "2103">\[TFN]</span> [**Temporal Filtering Networks for Online Action Detection**](https://www.sciencedirect.com/science/article/pii/S0031320320304982) - Hyunjun Eun et al, `PR 2021`.
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
