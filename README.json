@@ -116,7 +116,7 @@
             "open_issues": 1,
             "owner": "sqiangcao99",
             "repo": "E2E-LOAD",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:13.762Z"
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:41:25.640Z",
+    "last_updated": "2026-10-26T23:57:37.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Online Action Detection",
